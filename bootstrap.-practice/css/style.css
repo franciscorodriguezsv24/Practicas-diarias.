@@ -1,0 +1,76 @@
+body{
+    text-align: center;
+ 
+}
+
+
+.colored-section{
+   background-color: #F98098;
+   color: white;
+}
+
+.container-fluid{
+    background-color: #F98098;
+  
+    font-family: 'Square Peg', cursive;
+    font-size: 250%;
+
+}
+
+
+.navbar-brand{
+    font-size: 300%;
+}
+
+.title-image{
+    transform: rotate(0deg);
+}
+
+#div-2{
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+.col-lg-4{
+    font-size: 145%;
+}
+
+.carousel-inner{
+    padding-top: 5%;
+    padding-bottom: 5%;
+    text-align: center;
+  
+}
+
+h2{
+padding-bottom: 5%;
+}
+
+#imagen-1{
+    padding-left: 35%;
+    padding-right: 35%;
+    border-radius: 70%;
+    
+}
+
+#imagen-2{
+    padding-left: 35%;
+    padding-right: 35%;
+    border-radius: 70%;
+}
+
+#pricing{
+    padding-top: 5%;
+    padding-bottom: 5%;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+
+#download{
+    padding: 5%;
+}
+
+#footer{
+    padding-top: 5%;
+    font-size: 150%;
+}
