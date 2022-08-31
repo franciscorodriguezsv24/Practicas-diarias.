@@ -1,0 +1,65 @@
+html{
+    height: 100%;
+}
+
+body{
+   background-image: url(IMG/El\ Gran\ canion.jpg);
+   background-size: cover;
+   background-position: center;
+   background-attachment: fixed;
+}
+
+header{
+     text-align: center;
+     margin-top: 5%;
+
+}
+.container{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1{
+    font-size: 400%;
+    font-family: 'Cormorant SC', serif;
+    text-align: center;
+    text-shadow: 3px 3px white;
+}
+ 
+p{
+    font-size: 300%;
+    text-align: center;
+    color: white;
+    text-shadow: 2px 2px black;
+    font-family: 'Square Peg', cursive;
+}
+
+main{
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 5%;
+}
+
+main h2{
+    text-align: center;
+    font-size: 400%;
+    font-family: 'Cormorant SC', serif;
+    text-shadow: 3px 3px rgb(255, 254, 254);
+}
+
+main p{
+    text-align: center;
+    padding-left: 9%;
+    padding-right: 9%;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 250%;
+}
+
+img{
+    margin: auto;
+    display: block;
+}
+
+
+
+
