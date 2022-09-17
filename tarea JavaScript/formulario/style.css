@@ -1,0 +1,20 @@
+body{
+    background-image: url(image/pexels-hakan-özer-13060861.jpg);
+    text-align: center;
+    padding-top: 5%;
+}
+.group{
+    padding-top: 2%;
+    background-color: black;
+    opacity: 0.6;
+    margin-left: 25%;
+    margin-right: 25%;
+
+}
+.container{
+    opacity: 1;
+    padding-top: 2%;
+    text-align: center;
+     height: 75px;
+
+}
